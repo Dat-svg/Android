@@ -1,0 +1,13 @@
+<resources>
+    <string name="car_image">Car Image</string>
+    <string name="diagnostic_title">Diagnostic</string>
+    <string name="car_model">Volvo XC40</string>
+    <string name="service_button">Service</string>
+    <string name="log_button">Log</string>
+    <string name="manual_button">Manual</string>
+    <string name="support_button">Support</string>
+    <string name="settings_button">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
